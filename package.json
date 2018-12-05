@@ -1,0 +1,27 @@
+{
+  "name": "xml2object",
+  "version": "0.6.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvain59650/xml2object.git"
+  },
+  "keywords": [
+    "xml"
+  ],
+  "author": "s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvain59650/xml2object/issues"
+  },
+  "homepage": "https://github.com/Sylvain59650/xml2object#readme",
+  "dependencies": {
+    "saxen": "^8.1.0",
+    "xml-js": "^1.6.8",
+    "xmldom": "^0.1.27"
+  }
+}
